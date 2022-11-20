@@ -1,0 +1,123 @@
+{
+ "data":[
+        {
+            "id":"1",
+            "name":"Bronze",
+            "code":"#CD7F32",
+            "data":[
+        {
+           "quality":"SYMBOLIZES",
+           "traits":["STRENGTH","LOYALTY","SUPPORT","STABILITY"]
+        },
+        {
+            "quality":"EFFECTS",
+           "traits":["SOOTHES","INSPIRES","UPLIFTS","MOTIVATES"]
+        },
+        {
+            "quality":"POSITIVE",
+           "traits":["COMFORTING","RELIABLE","ELEGANT","TRUTHFUL"]
+        },
+        {  "quality":"NEGATIVE",
+           "traits":["BOASTFUL","CHEAP","UPTIGHT","TIGHT-FISTED"]
+            
+        }
+    ]
+        },
+        {
+            "id":"2",
+            "name":"Lilac",
+            "code":"#C8A2C8",
+            "data":[
+        {
+           "quality":"SYMBOLIZES",
+           "traits":["HELPFULNESS","KINDNESS","SERENITY","COMPASSION"]
+        },
+        {
+            "quality":"EFFECTS",
+           "traits":["RELAXES","INSPIRES","UPLIFTS","SOOTHES"]
+        },
+        {
+            "quality":"POSITIVE",
+           "traits":["EMPATHETIC","FEARLESS","HELPFUL","OPTIMISTIC"]
+            
+        },
+        {  "quality":"NEGATIVE",
+           "traits":["INEXPERIENCED","FRAGILE","INFANTILE","UNPREDICTABLE"]
+            
+        }
+    ]
+            
+        },
+        {
+            "id":"3",
+            "name":"Yellow",
+            "code":"#F8ED62",
+            "data":[
+        {
+           "quality":"SYMBOLIZES",
+           "traits":["HAPPINESS","OPTIMISM","POSITIVITY","INTELLECT"]
+        },
+        {
+            "quality":"EFFECTS",
+           "traits":["CLARIFIES","INSPIRES","AMUSES","ENERGIZES"]
+        },
+        {
+            "quality":"POSITIVE",
+           "traits":["CREATIVITY","PERCEPTION","MENTALITY","WARMTH"]
+            
+        },
+        {  "quality":"NEGATIVE",
+           "traits":["COWARDICE","DECEPTION","EGOTISM","CAUTION"]
+            
+        }
+    ]
+        },
+        {
+            "id":"4",
+            "name":"Red",
+            "code":"#FF0000",
+            "data":[
+        {
+           "quality":"SYMBOLIZES",
+           "traits":["ACTION","STRENGTH","ENERGY","PASSION"]
+        },
+        {
+            "quality":"EFFECTS",
+           "traits":["ATTENTION","MOTIVATES","STIMULATES","CAUTIONS"]
+        },
+        {
+            "quality":"POSITIVE",
+           "traits":["SEXUALITY","COURAGE","DESIRE","CONFIDENCE"]
+            
+        },
+        {  "quality":"NEGATIVE",
+           "traits":["ANGER","DANGER","REVENGE","AGGRESSION"]
+        }
+    ]
+        },
+        {
+            "id":"5",
+            "name":"Blue",
+            "code":"#0033FF",
+            "data":[
+        {
+           "quality":"SYMBOLIZES",
+           "traits":["SECURITY","TRUST","LOYALTY","RESPONSIBLE"]
+        },
+        {
+            "quality":"EFFECTS",
+           "traits":["PROTECTS","CALMS","RELAXES","SUPPORTS"]
+        },
+        {
+            "quality":"POSITIVE",
+           "traits":["CONFIDENCE","PEACE","HONESTY","RELIABILITY"]
+            
+        },
+        {  "quality":"NEGATIVE",
+           "traits":["CONSERVATIVE","PASSIVE","DEPRESSED","PREDICTABLE"]
+            
+        }
+    ]
+        }
+    ]
+}
